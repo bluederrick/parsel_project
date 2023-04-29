@@ -1,4 +1,4 @@
 ##Dependencies
-*node_modules
-## enviromental varaibles
-**.env 
+node_modules
+## enviromental varaiblesrc
+BACKEND/src/.env

@@ -1,8 +1,0 @@
-const STATUSCODE = {
-    FORBIDDEN: 403,
-    SUCCESS: 200,
-    SERVERERROR: 500,
-    CLIENTERROR: 404
-}
-
-module.exports = STATUSCODE;

@@ -1,0 +1,5 @@
+# enviromental variables
+/FULLSTACK/backend/.gitignore
+
+# node_modules
+/FULLSTACK/backend/node_modules
